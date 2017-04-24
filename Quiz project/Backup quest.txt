@@ -1,0 +1,384 @@
+Joule is the unit of?
+temperature
+pressure
+velocity
+heat
+energy
+Philology is the?
+study of bones
+study of muscles
+study of architecture
+science of nature
+science of languages
+What is the largest state of the United States?
+Washington
+California
+Texas
+Florida
+Alaska
+What do the Japanese people call their own country?
+Inu
+Watashi
+Ichi
+Anime
+Nippon
+What colour to do you get when you mix red and green?
+Gray
+Purple
+Blue
+Black
+Brown
+What kind of animal is the largest living creature on Earth?
+Elephant
+Shark
+Whale
+Rhino
+Crocodile
+What does the abbreviation GPS mean?
+Guiding Point System
+General Project System
+Google Personal System
+Getting Power System
+Global Positioning System
+What is the name of the winged horse in Greek mythology?
+Unicorn
+Minotauros
+Theseus
+Perseus
+Pegasus
+Who was the first president of the USA?
+John Adams
+Donald Trump
+James Madison
+Thomas Jefferson
+George Washington
+What is the former capital of Finland?
+Helsinki
+Tampere
+Oulu
+Suomi
+Turku
+What is the national sport in Japan?
+Vovinam
+Katana
+Taekwondo
+Hiragana
+Sumo
+What is the substance known by the chemical formula NH3?
+Sufuric acid
+Alummininum
+Enzim
+Copper
+Ammoniac
+In which Nintendo DS game do you have to raise a puppy as well as possible?
+Mariocart
+Zelda
+Sonic
+Pokemon
+Nintendogs
+In computing what is Ram short for?
+Random Associated Memory
+Rewrite At Memory
+Retrieve Access Memory
+Random Accelerated Memory
+Random Access Memory
+Which unit is an indication for the sound quality of MP3?
+Khpm
+Kmps
+Kgpm
+Knps
+Kbps
+Which is Japanese national dress?
+Hanbok
+Kilt
+Chador
+Sarong
+Kimono
+What is the lowest male voice?
+Soprano voice
+Tenor voice
+Treble voice
+Contralto voice
+Bass voice
+How many oscars did the Titanic movie got?
+1
+5
+7
+19
+11
+Which weekday is domingo in Spanish and dimanche in French?
+Friday
+Saturday
+Thursday
+Monday
+Sunday
+What is the most spoken language in the world?
+English
+German
+French
+Japanese
+Chinese
+What word is used in Hawaii both to greet and to say goodbye?
+Moi
+Si
+Ciao
+Hei
+Aloha
+What is the national animal of China?
+Eagle
+Dog
+Horse
+Kangaroo
+Panda
+What is the longest river in Europe?
+Seine river
+Mekong river
+Nile river
+Mississippi river
+Wolga river
+From which country does pitta bread originate?
+Hungary
+Italia
+French
+Turkish
+Greece
+From which country does shushi originate?
+China
+Korea
+Singapore
+Vietnam
+Japan
+Where was built the first subway?
+New York
+Paris
+Berlin
+Helsinki
+London
+Where does a car with the letters CH come from?
+France
+North Korea
+China
+Russia
+Switzerland
+How many digits does an IBAN number consist of?
+4
+8
+10
+18
+14
+What is called a fish with a snake-like body?
+Cat fish
+Snake fish
+Koi fish 
+King fish
+Eel fish
+Who paints the Mona Lisa?
+Jackson Pollock
+Vincent van Gogh
+Issac Newton
+Palo Picasso
+Leonardo Da Vinci
+How many continents are there?
+5
+6
+4
+8
+7
+What are the three primary colors?
+Red, yellow and white	
+White, green and blue
+Green, blue and black
+Black, green and white
+Blue, yellow and red
+Joule is the unit of?
+energy
+pressure
+velocity
+heat
+1
+Philology is the?
+study of bones
+study of muscles
+study of architecture
+science of languages
+4
+What is the largest state of the United States?
+Washington
+Alaska
+Texas
+Florida
+2
+What do the Japanese people call their own country?
+Nippon
+Watashi
+Ichi
+Anime
+1
+What colour to do you get when you mix red and green?
+Brown
+Purple
+Blue
+Black
+1
+What kind of animal is the largest living creature on Earth?
+Elephant
+Shark
+Whale
+Rhino
+3
+What does the abbreviation GPS mean?
+Guiding Point System
+Global Positioning System
+Google Personal System
+Getting Power System
+2
+What is the name of the winged horse in Greek mythology?
+Unicorn
+Pegasus
+Theseus
+Perseus
+2
+Who was the first president of the USA?
+John Adams
+George Washington
+James Madison
+Thomas Jefferson
+2
+What is the former capital of Finland?
+Helsinki
+Tampere
+Turku
+Suomi
+3
+What is the national sport in Japan?
+Sumo
+Katana
+Taekwondo
+Hiragana
+1
+What is the substance known by the chemical formula NH3?
+Sufuric acid
+Alummininum
+Enzim
+Ammoniac
+4
+In which Nintendo DS game do you have to raise a puppy as well as possible?
+Mariocart
+Zelda
+Sonic
+Nintendogs
+4
+In computing what is Ram short for?
+Random Associated Memory
+Random Access Memory
+Retrieve Access Memory
+Random Accelerated Memory
+2
+Which unit is an indication for the sound quality of MP3?
+Kbps
+Kmps
+Kgpm
+Knps
+1
+Which is Japanese national dress?
+Hanbok
+Kimono
+Chador
+Sarong
+2
+What is the lowest male voice?
+Soprano voice
+Tenor voice
+Treble voice
+Bass voice
+4
+How many oscars did the Titanic movie got?
+1
+5
+11
+19
+3
+Which weekday is domingo in Spanish and dimanche in French?
+Friday
+Saturday
+Sunday
+Monday
+3
+What is the most spoken language in the world?
+English
+Chinese
+French
+Japanese
+2
+What word is used in Hawaii both to greet and to say goodbye?
+Moi
+Aloha
+Ciao
+Hei
+2
+What is the national animal of China?
+Panda
+Dog
+Horse
+Kangaroo
+1
+What is the longest river in Europe?
+Seine river
+Mekong river
+Nile river
+Wolga river
+4
+From which country does pitta bread originate?
+Greece
+Italia
+French
+Turkish
+1
+From which country does shushi originate?
+China
+Korea
+Japan
+Vietnam
+3
+Where was built the first subway?
+New York
+Paris
+London
+Helsinki
+3
+Where does a car with the letters CH come from?
+Switzerland
+North Korea
+China
+Russia
+1
+How many digits does an IBAN number consist of?
+4
+8
+14
+18
+3
+What is called a fish with a snake-like body?
+Cat fish
+Eel fish
+Koi fish 
+King fish
+2
+Who paints the Mona Lisa?
+Jackson Pollock
+Vincent van Gogh
+Leonardo Da Vinci
+Palo Picasso
+3
+How many continents are there?
+5
+6
+7
+8
+3
+What are the three primary colors?
+Red, yellow and white	
+Blue, yellow and red
+Green, blue and black
+Black, green and white
+2

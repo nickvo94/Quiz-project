@@ -1,0 +1,4 @@
+﻿  QuizLibrary.cpp
+c:\users\nick\documents\visual studio 2015\projects\quiz project\quiz project\quizlibrary.cpp(276): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quiz project.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\Quiz project\Debug\Quiz project.exe
+  Quiz project.vcxproj -> C:\Users\Nick\documents\visual studio 2015\Projects\Quiz project\Debug\Quiz project.pdb (Full PDB)
