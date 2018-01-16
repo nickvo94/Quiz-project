@@ -1,13 +1,16 @@
 # Quiz-project
 visual studio
 
+![Link to project](https://i9.ytimg.com/vi/TN6gz4iunsE/default.jpg?v=59f8c572&sqp=CLSX488F&rs=AOn4CLBb2_hrZVtKH8MhXLeZb_Hwabt0-w)
+(https://youtu.be/-141qfGvFHI)
+
 Write a quiz program. Questions contain at least following information.
- Question
- Alternative 1
- Alternative 2
- Alternative 3
- Alternative 4
- Correct answer (1,2,3, 4)
+. Question
+. Alternative 1
+. Alternative 2
+. Alternative 3
+. Alternative 4
+. Correct answer (1,2,3, 4)
 
 The program must have (at least) following commands:
 1. Initialize (clear all questions)
